@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'challenge1';
+  title = 'Bienvenue sur le site de Manuella la Meilleure';
 }
